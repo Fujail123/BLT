@@ -43,7 +43,3 @@ contract MarksManagmtSys
         stdRecords[stdCount].marks = stdRecords[stdCount].marks + _bonus;
     }
 }
-	
-}
-
-
